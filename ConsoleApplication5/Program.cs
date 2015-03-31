@@ -12,6 +12,8 @@ namespace ConsoleApplication5
         {
             //valientyo
             //cloned by VS from github
+            changed and staged.
+
         }
     }
 }
