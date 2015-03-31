@@ -16,6 +16,7 @@ namespace ConsoleApplication5
             changed and unstaged.
             try again.
             now I want to push with command line, but add with VS? Can I EventArgs do that?
+            //again I want to try commit locally, push from command.
 
         }
     }
