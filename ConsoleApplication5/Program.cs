@@ -11,6 +11,7 @@ namespace ConsoleApplication5
         static void Main(string[] args)
         {
             //valientyo
+            //cloned by VS from github
         }
     }
 }
